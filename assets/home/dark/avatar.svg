@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id=".myA.avatar_default" clip-path="url(#clip0_0_1228)">
+<rect width="48" height="48" fill="#626262"/>
+<path id="avatar" d="M24 32.6074C36.89 32.6074 47.3397 44.5698 47.3398 59.3262H0.660156C0.660295 44.5698 11.11 32.6074 24 32.6074ZM24.001 9.75488C29.2814 9.75515 33.5625 14.0359 33.5625 19.3164C33.5624 24.5968 29.2814 28.8777 24.001 28.8779C18.7204 28.8779 14.4396 24.597 14.4395 19.3164C14.4395 14.0357 18.7203 9.75488 24.001 9.75488Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1228">
+<rect width="48" height="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>
